@@ -6,7 +6,7 @@ export class ProductService
           "id":1,
           "productName": "Basmati Biryani Rice",
           "description": "Rice",
-          "price": 499.50,
+          "price": 499.00,
           "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1qimQoBr7uKDwhoE2YW4OvJgtL2Z0LObBw&s"
         },
         {
@@ -20,35 +20,35 @@ export class ProductService
           "id":3,
           "productName": "Gemini Oil",
           "description": "Sunflower Oil.",
-          "price": 129.30,
+          "price": 129.00,
           "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsGIjlFQazYHCURcyFHkRx3XAdhssO6IVvQ&s"
         },
         {
           "id":4,
           "productName": "Pohe",
           "description": "White Pohe",
-          "price": 53.99,
+          "price": 53.00,
           "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxu_dBGp5QcptnZAmE2LTyHDiLedFAjwSwlA&s"
         },
         {
           "id":5,
           "productName": "Fortune Besan",
           "description": "Basan",
-          "price": 89.99,
+          "price": 89.00,
           "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3EIhwHKHZJA7AXwgSM1Za34Ctnqbt7OOfyA&s"
         },
         {
           "id":6,
           "productName": "Fortune Atta",
           "description": "Atta.",
-          "price":210.11,
+          "price":210.00,
           "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzPNn4suCk0Xxh1kXDr-OjOFD52eEMxnaXw&s"
         },
         {
           "id":7,
           "productName": "Tata Salt",
           "description": "Salt.",
-          "price": 34.99,
+          "price": 30.00,
           "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5rEZO-WHtqCwaANRBf18ZkZOElV-0TaJcng&s"
         }
       ];

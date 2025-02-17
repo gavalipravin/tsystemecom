@@ -54,7 +54,7 @@ footer .footer-links ul li {
 
 footer .footer-links ul li a {
     text-decoration: none;
-    color: #333;
+    color: #00ADB5;
 }
 
 footer .footer-links ul li a i {
@@ -64,5 +64,5 @@ footer .footer-links ul li a i {
 footer .footer-bottom {
     margin-top: 20px;
     font-size: 14px;
-    color: #777;
+    color: #00ADB5;
 }
