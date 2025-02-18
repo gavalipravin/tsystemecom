@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "author": "\"Nasir\"",
+  "author": "\"Pravin\"",
   "license": "ISC",
   "description": "",
   "dependencies": {

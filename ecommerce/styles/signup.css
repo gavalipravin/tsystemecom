@@ -74,7 +74,7 @@ body {
 /* Button Styling */
 .btn {
     display: inline-block;
-    background-color: #28a745;
+    background-color: #00ADB5;
     color: white;
     padding: 12px 30px;
     text-decoration: none;
@@ -85,7 +85,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #218838;
+    background-color: #00ADB5;
 }
 
 /* Footer Sign In Link */
